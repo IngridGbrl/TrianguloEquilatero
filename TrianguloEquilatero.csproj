@@ -33,7 +33,7 @@
 	<ItemGroup>
 		<!-- App Icon -->
 		
-		<MauiIcon Include="Resources\AppIcon\equila.png" Color="LightBlue" />
+		<MauiIcon Include="Resources\AppIcon\equila.png" Color="LightBlue" BaseSize="128,128" />
 
 		<!-- Splash Screen -->
 	

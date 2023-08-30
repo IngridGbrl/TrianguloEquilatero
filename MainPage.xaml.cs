@@ -7,7 +7,7 @@ public partial class MainPage : ContentPage
 	{
 		InitializeComponent();
 	}
-    private void btnCalcular_Clicked(object sender, EventArgs e)
+    private void BtnCalcular_Clicked(object sender, EventArgs e)
     {
 
         if (!string.IsNullOrEmpty(LadoA.Text) && !string.IsNullOrEmpty(LadoB.Text) &&

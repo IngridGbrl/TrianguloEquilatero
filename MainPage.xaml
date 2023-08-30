@@ -21,7 +21,7 @@
             <Label Text="Lado C" FontSize="18" FontAttributes="Bold" TextColor="DarkCyan" />
             <Entry x:Name="LadoC" Placeholder="Ingrese lado C del triángulo equilátero" Keyboard="Numeric" TextColor="DarkBlue"  />
 
-            <Button x:Name="btnCalcular" Text="Calcular"  Clicked="btnCalcular_Clicked" BackgroundColor="LightBlue" FontAttributes="Bold" HorizontalOptions="Center" HeightRequest="50" WidthRequest="200"/>
+            <Button x:Name="btnCalcular" Text="Calcular"  Clicked="BtnCalcular_Clicked" BackgroundColor="LightBlue" FontAttributes="Bold" HorizontalOptions="Center" HeightRequest="50" WidthRequest="200"/>
 
 
            <!--<Label Text="Semiperimetro" FontSize="18" FontAttributes="Bold" TextColor="DarkCyan" />
